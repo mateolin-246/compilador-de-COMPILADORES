@@ -1,0 +1,6 @@
+// Ejemplo con errores intencionales
+x 10;
+resultado = 20 + ;
+si (resultado > 10 {
+    mensaje = "Falta un paréntesis";
+}
